@@ -4,6 +4,8 @@
 
 ![Product Name Screen Shot](https://github.com/ganesh1828/Document_Scanner/blob/master/output/Output_Stacked1.jpg)
 
+Final Output Image of the Scan Document.
+
 ![Product Name Screen Shot](https://github.com/ganesh1828/Document_Scanner/blob/master/output/Output1.jpg)
 
 Simple document scanner app made using OpenCV
